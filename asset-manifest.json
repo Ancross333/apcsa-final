@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apcsa-final/static/css/main.f2eca1eb.css",
+    "main.js": "/apcsa-final/static/js/main.33928d31.js",
+    "index.html": "/apcsa-final/index.html",
+    "main.f2eca1eb.css.map": "/apcsa-final/static/css/main.f2eca1eb.css.map",
+    "main.33928d31.js.map": "/apcsa-final/static/js/main.33928d31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2eca1eb.css",
+    "static/js/main.33928d31.js"
+  ]
+}
