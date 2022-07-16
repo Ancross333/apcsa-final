@@ -1,0 +1,16 @@
+.sideBarContainer{
+    margin: 0;
+    display: grid;
+    grid-auto-flow: row;
+    justify-content: left;
+    width: 100%;
+}
+
+.contact{
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.contact:hover{
+    color: lime;
+}

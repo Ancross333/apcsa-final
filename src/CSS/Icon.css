@@ -1,0 +1,74 @@
+.container{
+    position: absolute;
+    left: 50%;
+    margin-left: -150px;
+    top: 1500px;
+}
+
+.outer{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+}
+
+.or{
+    position: absolute;
+    background-color: orange;
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    left: 50%;
+    margin-left: -125px;
+    top: 50%;
+    margin-top: -125px;
+}
+
+.ye{
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    top: 50%;
+    margin-top: -100px;
+}
+
+.gr{
+    position: absolute;
+    left: 50%;
+    margin-left: -75px;
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    top: 50%;
+    margin-top: -75px;
+}
+
+.bl{
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    top: 50%;
+    margin-top: -50px;
+}
+
+.vi{
+    position: absolute;
+    left: 50%;
+    margin-left: -25px;
+    background-color: purple;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    top: 50%;
+    margin-top: -25px;
+}
+

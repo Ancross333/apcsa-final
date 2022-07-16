@@ -1,0 +1,40 @@
+input{
+    margin-bottom: 25px;
+}
+
+body{
+   background-color: lightgrey;
+}
+
+.button{
+    margin-right: 25px;
+    background-color: rgb(28, 156, 28);
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: rgb(17, 128, 17);
+}
+
+.formContainer{
+    height: 100vh;
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formSpace{
+    padding-top: 50px;
+    border-radius: 10px;
+    background-color: limegreen;
+}
+
+form{
+    padding: 75px 250px 50px 250px;
+    background-color: white;
+}
